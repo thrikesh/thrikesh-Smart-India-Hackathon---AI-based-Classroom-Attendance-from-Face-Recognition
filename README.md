@@ -21,7 +21,7 @@
 - it will create `.csv` file for every subject you enter and seperate every `.csv` file according the subject
 - You can view the attendance after clicking `View Attendance` button. It will show record in tabular format.
 
-### Screenshots
+### OUTPUT
 
 ### Simple UI
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
@@ -35,4 +35,3 @@
 ## Attendance in tabular format 
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
 
-## Just follow me and Star⭐ my repository
